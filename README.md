@@ -61,6 +61,10 @@ Book_recommender_system.ipynb
 - Improve model accuracy
 
 ---
+## 📂 Dataset
+
+> Dataset files are included in the repository for demonstration purposes.
+---
 
 ## 👨‍💻 Author
 
