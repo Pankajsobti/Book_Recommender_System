@@ -3,7 +3,10 @@
 This project is a **Machine Learning based Book Recommendation System** that suggests books to users based on their preferences and past ratings.
 
 ---
+## 🎯 Objective
 
+To build an intelligent system that recommends books based on user preferences using machine learning techniques.
+---
 ## 🚀 Features
 
 - Personalized book recommendations
